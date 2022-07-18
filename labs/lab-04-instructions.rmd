@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE, message=F, warning=F)
 
 
 
-#### [DS4PS](https://ds4ps.org/cpp-526-fall-2019/)
+#### [CPP 526: Foundations of Data Science I](https://watts-college.github.io/cpp-526-fall-2021/)
 
 <br>
 
@@ -39,7 +39,7 @@ Shiny allows you to build interactive components in graphics or dashboards. The 
 
 ![](images/cpp-526-lab-04-demo.gif)
 
-You can try it out using the Shiny Demo file or the example from the [Shiny tutorial](https://rmarkdown.rstudio.com/flexdashboard/shiny.html#loading_data): 
+You can try it out using the Shiny Demo file or the example from the [Shiny tutorial](https://pkgs.rstudio.com/flexdashboard/): 
 
 * [Shiny Demo](https://cdn.rawgit.com/DS4PS/Data-Science-Class/53c986f1/TEMPLATES/ShinyWidgetsDemo.Rmd) 
 * [Tutorial App](https://cdn.rawgit.com/DS4PS/Data-Science-Class/b28db4b7/TEMPLATES/ShinyExample-01.Rmd) 
@@ -57,7 +57,7 @@ selectInput(
            )
 ```
 
-Shiny automatically creates an object called "input" for you. When you create a widget, shiny will perform the folowing assignment implicitly in the background:
+Shiny automatically creates an object called "input" for you. When you create a widget, shiny will perform the following assignment implicitly in the background:
 
 ```{r, eval=F}
 input$my_widget_id <- "B"  # user selected value

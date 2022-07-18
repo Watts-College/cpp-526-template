@@ -22,10 +22,7 @@ library( sp )
 library( rgdal )
 ```
 
-
-
-
-#### [CPP 526: Foundations of Data Science I](https://ds4ps.org/cpp-526-spr-2020/)
+#### [CPP 526: Foundations of Data Science I](https://watts-college.github.io/cpp-526-fall-2021/)
 
 <br>
 
@@ -40,7 +37,7 @@ I have provided you with a **LAB-02 RMD template**:
 
 <center>
 
-[![](images/download.png)](https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-02-v2-LastName.zip?raw=true)
+[![](images/download.png)](https://github.com/Watts-College/cpp-526-fall-2021/blob/main/labs/cpp-526_reformatted-labs/Lab-02-v2-LastName.zip?raw=true)
 
 </center>
 
@@ -72,7 +69,7 @@ compound statements with & (AND) and | (OR) operators
 
 ## Data
 
-This lab uses [**city tax parcel data**](https://ds4ps.org/Data-Science-Class/DATA/syr_parcels.html), and open dataset released by the municipal government of Syracuse, NY. 
+This lab uses [**city tax parcel data**](https://ds4ps.org/cpp-526-sum-2021/labs/syr_parcels.html), and open dataset released by the municipal government of Syracuse, NY. 
 
 * Each house, business, park or empty lot in the city sits on a parcel of land, and the tax rate for that parcel is determined by the city. 
 * All of the characteristics of each parcel is stored in a central database, along with information about the land use classifications, owners, and whether the property is up-to-date on taxes and water bills.  
@@ -183,7 +180,7 @@ install.packages( "sp" )
 install.packages( "rgdal" )
 ```
 
-NOTE: do not include include install package commands in your RMD chunks. Trying to install packages while knitting can cause errors. 
+NOTE: do not include `install.packages` commands in your RMD chunks. Trying to install packages while knitting can cause errors. 
 
 ```{r, eval=F}
 library( geojsonio )
@@ -207,7 +204,7 @@ plot( downtown,  border="gray50", col="gray80" )
 <br>
 
 
-#### [Data Dictionary](https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html)
+#### [Data Dictionary](https://ds4ps.org/cpp-526-sum-2021/labs/syr_parcels.html)
 
 *Note, the downtown file contains a subset of the fields.*
 
@@ -276,7 +273,7 @@ The images are included so that you can check whether your logical statements ar
 
 
 
-#### 1. Where are the majority of vacant lots located in the downtown? Produce a map of your results that matches the one shown here. 
+#### 1. Where are the majority of vacant lots located in downtown Syracuse? Produce a map of your results that matches the one shown here. 
 
 > **landuse** variable 
 
@@ -642,6 +639,7 @@ See [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml) for
 If you are having problems with your RMD file, visit the [**RMD File Styles and Knitting Tips**](https://ds4ps.org/cpp-526-fall-2019/labs/r-markdown-files.html) manual.
 
 
+
 #### Notes on Knitting
 
 Note that when you knit a file, it starts from a blank slate. You might have packages loaded or datasets active on your local machine, so you can run code chunks fine. But when you knit you might get errors that functions cannot be located or datasets don't exist. Be sure that you have included chunks to load these in your RMD file.
@@ -750,7 +748,7 @@ sum( downtown$landuse == "apartment" )
 
 ## Missing Values
 
-When there are missing values (**_NA_**s) in a vector  you need to tell mathematical functions like **sum()** and **mean()** to ignore them, otherwise they will return NA. 
+When there are missing values (**_NA_**s) in a vector you need to tell mathematical functions like **sum()** and **mean()** to ignore them, otherwise they will return NA. 
 
 ```{r}
 x <- c( 1, 2, NA, 4 )
