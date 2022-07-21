@@ -380,9 +380,9 @@ Adapted from **[SRGRAFO](https://www.srgrafo.com/)**.
 
 Note that the discussion board is hosted by the GitHub issues feature. It is a great forum because:
 
-* You can format code and math using standard markdown syntax.
-* You can cut and paste images directly into the message.
-* You can direction responses using @username mentions.
+* You can format code and math using standard markdown syntax
+* You can cut and paste images directly into the message
+* You can direction responses using @username mentions
 
 Please preview your responses before posting to ensure proper formatting. Note that you format code by placing fences around the code:
 
@@ -561,11 +561,11 @@ The following background chapters are recommended for skimming for future refere
 
 Play the video below for an overview of objects and assignment in R.
 
-* How to open a new script in RStudio
-* Arithmetic and the order of operations
-* Creating different objects with assignments
-* Using objects algebraically and arithmetically
-* Common conventions and limitations in naming objects
+* How to open a new script in RStudio.
+* Arithmetic and the order of operations.
+* Creating different objects with assignments.
+* Using objects algebraically and arithmetically.
+* Common conventions and limitations in naming objects.
 
 Visit the [chapter](http://ds4ps.org/dp4ss-textbook/ch-033-calculator.html).
 
@@ -599,9 +599,9 @@ Visit the [video](https://youtu.be/q6kdjxSlq40) to navigate using timestamps in 
 Play the video below for an overview of functions in R.
 
 * What are functions?
-* Exploring function internals
-* How to create new functions in R
-* How to explore function documentation
+* Exploring function internals.
+* How to create new functions in R.
+* How to explore function documentation.
 * What are function arguments and how are they used?
 
 Visit the [chapter](http://ds4ps.org/dp4ss-textbook/ch-040-functions.html).
@@ -682,10 +682,10 @@ Visit the [video](https://youtu.be/2uavlW7Ytb8) to navigate using timestamps in 
 Play the video below for an overview of basic exploratory functions for a vector, i.e. a series of values.
 
 * What constitutes tabular data?
-* Extracting variables as a separate vector
-* Common functions for tables and variables
-* How to extract and store variables as objects
-* Exploratory and summarizing functions for vectors
+* Extracting variables as a separate vector.
+* Common functions for tables and variables.
+* How to extract and store variables as objects.
+* Exploratory and summarizing functions for vectors.
 
 <br>
 
