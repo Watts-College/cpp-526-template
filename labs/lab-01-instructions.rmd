@@ -13,7 +13,7 @@ library( dplyr )
 library( pander )
 ```
 
-#### [CPP 526: Foundations of Data Science I](https://watts-college.github.io/cpp-526-fall-2021/)
+#### [CPP 526: Foundations of Data Science I](https://watts-college.github.io/cpp-526-fall-2022/)
 
 <br>
 
@@ -27,7 +27,7 @@ I have provided you with a **LAB-01 RMD template**:
 
 <center>
 
-[![](images/download.png)](https://github.com/Watts-College/cpp-526-fall-2021/blob/main/labs/cpp-526_reformatted-labs/Lab-01-v2_LastName.zip?raw=true)
+[![](images/download.png)](https://github.com/Watts-College/cpp-526-fall-2022/blob/main/labs/cpp-526_reformatted-labs/Lab-01-LastName.zip?raw=true)
 
 </center>
 
@@ -55,7 +55,7 @@ table()                 # summarize factors / character vectors
 
 # Data
 
-This lab uses **city tax parcel data** from Syracuse, NY. [ [Data Dictionary](https://ds4ps.org/cpp-526-sum-2021/labs/syr_parcels.html) ]
+This lab uses **city tax parcel data** from Syracuse, NY. [ [Data Dictionary](https://watts-college.github.io/cpp-526-fall-2022/labs/syr_parcels.html) ]
 
 * Each house, business, park or empty lot in the city sits on a parcel of land, and the tax rate for that parcel is determined by the city. 
 * All of the characteristics of each parcel is stored in a central database, along with information about the land use classifications, owners, and whether the property is up-to-date on taxes and water bills.  

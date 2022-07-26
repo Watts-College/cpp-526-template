@@ -74,7 +74,7 @@ Submit Buttons -
 
 ## About Your Instructor
 
-Play the video below to learn a bit more about your instructor for the course, Jamison Crawford.
+Play the video below to learn a bit more about your instructor for the course, YOUR NAME.
 
 * Visit his [GitHub](https://github.com/jamisoncrawford) profile
 * View his [RPubs](https://rpubs.com/jamisoncrawford) portfolio
@@ -414,7 +414,7 @@ b1 = cov(x,y) / var(x)
 
 The following checklist will help you organize and prepare for success in this course.
 
-- [ ] [Read the Syllabus](https://watts-college.github.io/cpp-526-fall-2021/)
+- [ ] [Read the Syllabus](https://watts-college.github.io/cpp-526-fall-2022/)
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/)
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join)
 - [ ] Introduce Yourself on [YellowDig](https://canvas.asu.edu/courses/54986/assignments/1306428) (See Below)
@@ -784,7 +784,7 @@ This lab is designed to introduce you to basic functions that explore datasets a
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-01-v2_LastName.zip')">LAB-01 Template</a>
+<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-01-LastName.zip')">LAB-01 Template</a>
 
 ## Submit Solutions to Canvas
 
@@ -930,7 +930,7 @@ The following checklist will help you stay organized in your second week.
 
 - [ ] Complete Assigned Readings: [Group Construction with Logical Statements](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
-- [ ] Complete & Submit [Lab 02](../labs/lab-02-instructions-v2.html) (See Below)
+- [ ] Complete & Submit [Lab 02](../labs/lab-02-instructions.html) (See Below)
 - [ ] (Recommended) Explore Packages for [Code Through Project](../labs/code-through-assignment.html)
 - [ ] (Recommended) Videos
 
@@ -994,11 +994,11 @@ The rest of the chapter is useful information to come back to, but not needed fo
 
 *Similar to last week, the chapter highlights some easy ways to make errors with your code. We don't want to convince you that R is hard, but rather to ensure that you are paying attention to some subtle features of machine language that can impact your data.*
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/lab-02-instructions-v2.html')">LAB-02 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('../labs/lab-02-instructions.html')">LAB-02 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-02-v2-LastName.zip?raw=true')">LAB-02 Template</a>
+<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-02-LastName.zip?raw=true')">LAB-02 Template</a>
 
 ## Submit Solutions to Canvas
 
@@ -1176,7 +1176,7 @@ Code is provided to get you started, but you will have to use documentation and 
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-03-v2-LastName.zip?raw=true')">LAB-03 Template</a>
+<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-03-LastName.zip?raw=true')">LAB-03 Template</a>
 
 ## Submit Solutions to Canvas
 
@@ -1366,7 +1366,7 @@ Click to download the lab template.
 
 **Note:** Rather than submitting a PDF or HTML file, please submit only the R or R Markdown file.  *Please ignore the boilerplate directions in this week's assignment*.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-04-v2-LastName.zip?raw=true')">LAB-04 Template</a>
+<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-04-LastName.zip?raw=true')">LAB-04 Template</a>
 
 ## Submit Solutions to Canvas
 
@@ -1555,7 +1555,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-05-v2-LastName.zip?raw=true')">LAB-05 Template</a>
+<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-05-LastName.zip?raw=true')">LAB-05 Template</a>
 
 ## Submit Solutions to Canvas
 
@@ -1720,7 +1720,7 @@ This lab is designed to introduce you to primary data join functions in R.
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-06-v2-LastName.zip?raw=true')">LAB-06 Template</a>
+<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-06-LastName.zip?raw=true')">LAB-06 Template</a>
 
 ## Submit Solutions to Canvas
 
